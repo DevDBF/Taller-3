@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\Comp visual\Taller3\TemplateProject\Debug\TemplateProject.exe
+C:\Users\ASUS\Desktop\Comp visual\Taller3\TemplateProject\Debug\TemplateProject.pdb
